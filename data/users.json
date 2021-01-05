@@ -1,0 +1,11 @@
+{
+  user_name: Rainbow,
+  gender: female
+  age: 30,
+  position: restaurant manager,
+  preference: {
+    gender: male,
+    personality: friendly,
+    merry_status: unmerried,
+  }
+}
